@@ -1,0 +1,222 @@
+                  Federal, State and City Bond Value Report            Page   1
+                                 Rodrigo Alcover
+
+ Federal   State  City     Account    Principle    Quantity               Total
+    ID #    ID #  ID #      Number        Value        Sold               Value
+
+     100      10  Allegan    12345        12.95          80           $1,036.00
+     100      10  Allegan    23456        12.95         140           $1,813.00
+     100      10  Allegan    34567       250.55        1020         $255,561.00
+
+                              City   Allegan      Total:            $258,410.00 *
+
+     100      10  Comstock   45678       200.75         450          $90,337.50
+     100      10  Comstock   56789        95.25        1240         $118,110.00
+     100      10  Comstock   67890       259.55         244          $63,330.20
+     100      10  Comstock   45678       130.75         400          $52,300.00
+     100      10  Comstock   56789        96.00         140          $13,440.00
+     100      10  Comstock   67890       350.00         244          $85,400.00
+     100      10  Comstock   45678     1,300.00         500         $650,000.00
+     100      10  Comstock   56789        96.50        1250         $120,625.00
+     100      10  Comstock   67890       350.55         200          $70,110.00
+
+                              City  Comstock      Total:          $1,263,652.70 *
+
+                              State ID 10         Total:          $1,522,062.70 **
+
+     100      37  Comstock   ERROR*       32.95         204           $6,721.80
+                  Federal, State and City Bond Value Report            Page   2
+                                 Rodrigo Alcover
+
+ Federal   State  City     Account    Principle    Quantity               Total
+    ID #    ID #  ID #      Number        Value        Sold               Value
+
+     100      37  Comstock   98765        96.25        1300         $125,125.00
+     100      37  Comstock   ERROR*    1,000.00        1249       $1,249,000.00
+
+                              City  Comstock      Total:          $1,380,846.80 *
+
+                              State ID 37         Total:          $1,380,846.80 **
+
+     100      40  Kalamazoo  ERROR*    1,000.00         210         $210,000.00
+     100      40  Kalamazoo  45678        12.95          45             $582.75
+     100      40  Kalamazoo  ERROR*      250.55         249          $62,386.95
+     100      40  Kalamazoo  ERROR*       12.95          42             $543.90
+     100      40  Kalamazoo  45678       150.55          24           $3,613.20
+     100      40  Kalamazoo  98765        12.95           5              $64.75
+
+                              City Kalamazoo      Total:            $277,191.55 *
+
+                              State ID 40         Total:            $277,191.55 **
+
+     100      50  Richland   ERROR*      250.55         243          $60,883.65
+     100      50  Richland   ERROR*       12.95          35             $453.25
+     100      50  Richland   ERROR*      250.55         242          $60,633.10
+
+                              City  Richland      Total:            $121,970.00 *
+
+                              State ID 50         Total:            $121,970.00 **
+
+                              Federal ID 100      Total           $3,302,071.05 ***
+                  Federal, State and City Bond Value Report            Page   3
+                                 Rodrigo Alcover
+
+ Federal   State  City     Account    Principle    Quantity               Total
+    ID #    ID #  ID #      Number        Value        Sold               Value
+
+     200      10  Allegan    01234     1,200.75         401         $481,500.75
+     200      10  Allegan    ERROR*      250.55         440         $110,242.00
+     200      10  Allegan    12345        96.25        1245         $119,831.25
+     200      10  Allegan    54321       250.55         500         $125,275.00
+     200      10  Allegan    ERROR*    1,200.75         400         $480,300.00
+     200      10  Allegan    98765       250.55         440         $110,242.00
+     200      10  Allegan    01234        96.25        1240         $119,350.00
+     200      10  Allegan    12345       250.55          50          $12,527.50
+
+                              City   Allegan      Total:          $1,559,268.50 *
+
+     200      10  Oshtemo    ERROR*    1,200.75          40          $48,030.00
+     200      10  Oshtemo    23456       250.55         441         $110,492.55
+     200      10  Oshtemo    ERROR*       96.25        1240         $119,350.00
+     200      10  Oshtemo    45678       250.55          50          $12,527.50
+     200      10  Oshtemo    23456     1,200.75          40          $48,030.00
+     200      10  Oshtemo    12345       250.55          44          $11,024.20
+
+                              City   Oshtemo      Total:            $349,454.25 *
+
+                              State ID 10         Total:          $1,908,722.75 **
+
+                  Federal, State and City Bond Value Report            Page   4
+                                 Rodrigo Alcover
+
+ Federal   State  City     Account    Principle    Quantity               Total
+    ID #    ID #  ID #      Number        Value        Sold               Value
+
+     200      20  Allegan    ERROR*       96.25        1240         $119,350.00
+     200      20  Allegan    98765       250.55         502         $125,776.10
+     200      20  Allegan    12345     1,000.00         140         $140,000.00
+
+                              City   Allegan      Total:            $385,126.10 *
+
+     200      20  Jones      98765        96.25         330          $31,762.50
+     200      20  Jones      01234     1,000.00         140         $140,000.00
+     200      20  Jones      12345        96.25         330          $31,762.50
+     200      20  Jones      98765       250.55        4059       $1,016,982.45
+     200      20  Jones      98765     1,200.75        1140       $1,368,855.00
+
+                              City     Jones      Total:          $2,589,362.45 *
+
+     200      20  Richland   65432        96.25        2404         $231,385.00
+     200      20  Richland   ERROR*    1,000.00        3204       $3,204,000.00
+     200      20  Richland   23456     1,300.75        1409       $1,832,756.75
+     200      20  Richland   45678        96.25        2449         $235,716.25
+     200      20  Richland   12345     1,000.00         324         $324,000.00
+     200      20  Richland   12345        96.25        1000          $96,250.00
+     200      20  Richland   ERROR*    1,000.00        3103       $3,103,000.00
+                  Federal, State and City Bond Value Report            Page   5
+                                 Rodrigo Alcover
+
+ Federal   State  City     Account    Principle    Quantity               Total
+    ID #    ID #  ID #      Number        Value        Sold               Value
+
+     200      20  Richland   12345     1,300.75        1409       $1,832,756.75
+     200      20  Richland   45678       296.25        2440         $722,850.00
+     200      20  Richland   ERROR*    1,400.00        3100       $4,340,000.00
+     200      20  Richland   12345       300.25        1555         $466,888.75
+     200      20  Richland   45678        96.25        2119         $203,953.75
+
+                              City  Richland      Total:         $16,593,557.25 *
+
+                              State ID 20         Total:         $19,568,045.80 **
+
+     200      30  Jones      23456       300.00         320          $96,000.00
+     200      30  Jones      ERROR*    1,300.75        2249       $2,925,386.75
+     200      30  Jones      ERROR*    1,200.75         124         $148,893.00
+     200      30  Jones      12345        12.95        1249          $16,174.55
+     200      30  Jones      01234     1,200.75        2047       $2,457,935.25
+     200      30  Jones      ERROR*    1,200.00         224         $268,800.00
+     200      30  Jones      65432        12.95        2003          $25,938.85
+     200      30  Jones      01234       200.75         225          $45,168.75
+     200      30  Jones      23456       190.95         223          $42,581.85
+
+                              City     Jones      Total:          $6,026,879.00 *
+
+                  Federal, State and City Bond Value Report            Page   6
+                                 Rodrigo Alcover
+
+ Federal   State  City     Account    Principle    Quantity               Total
+    ID #    ID #  ID #      Number        Value        Sold               Value
+
+     200      30  Lawton     65432       250.55        2233         $559,478.15
+     200      30  Lawton     ERROR*       12.95         243           $3,146.85
+     200      30  Lawton     12345       150.99         233          $35,180.67
+     200      30  Lawton     56789        10.10         543           $5,484.30
+     200      30  Lawton     ERROR*        0.75        1453           $1,089.75
+     200      30  Lawton     56789        12.95         223           $2,887.85
+     200      30  Lawton     65432       250.00         233          $58,250.00
+     200      30  Lawton     ERROR*       15.95         200           $3,190.00
+     200      30  Lawton     12345       150.99         433          $65,378.67
+     200      30  Lawton     56789        10.10         143           $1,444.30
+     200      30  Lawton     ERROR*      200.75        1053         $211,389.75
+     200      30  Lawton     65432        96.25        2445         $235,331.25
+     200      30  Lawton     23456     1,000.00        3247       $3,247,000.00
+
+                              City    Lawton      Total:          $4,429,251.54 *
+
+                              State ID 30         Total:         $10,456,130.54 **
+
+                              Federal ID 200      Total          $31,932,899.09 ***
+     300      38  Comstock   ERROR*    1,200.75         140         $168,105.00
+     300      38  Comstock   12345        96.25         244          $23,485.00
+                  Federal, State and City Bond Value Report            Page   7
+                                 Rodrigo Alcover
+
+ Federal   State  City     Account    Principle    Quantity               Total
+    ID #    ID #  ID #      Number        Value        Sold               Value
+
+     300      38  Comstock   01234     1,000.00         324         $324,000.00
+
+                              City  Comstock      Total:            $515,590.00 *
+
+                              State ID 38         Total:            $515,590.00 **
+
+     300      44  Comstock   ERROR*    1,300.75        2243       $2,917,582.25
+     300      44  Comstock   65432     1,300.75        1243       $1,616,832.25
+     300      44  Comstock   55553        13.95        1244          $17,353.80
+     300      44  Comstock   65432       400.00        2040         $816,000.00
+     300      44  Comstock   12345       100.75         224          $22,568.00
+     300      44  Comstock   65432       500.00        1243         $621,500.00
+     300      44  Comstock   65432        32.95        1244          $40,989.80
+     300      44  Comstock   55553       200.75        2040         $409,530.00
+
+                              City  Comstock      Total:          $6,462,356.10 *
+
+                              State ID 44         Total:          $6,462,356.10 **
+
+     300      50  Lawton     12345        30.00         224           $6,720.00
+     300      50  Lawton     12345        13.00        2262          $29,406.00
+                  Federal, State and City Bond Value Report            Page   8
+                                 Rodrigo Alcover
+
+ Federal   State  City     Account    Principle    Quantity               Total
+    ID #    ID #  ID #      Number        Value        Sold               Value
+
+     300      50  Lawton     45678       230.55        2264         $521,965.20
+     300      50  Lawton     01234        12.95         268           $3,470.60
+     300      50  Lawton     ERROR*      150.99         264          $39,861.36
+     300      50  Lawton     12345        30.10         568          $17,096.80
+     300      50  Lawton     ERROR*      150.99         264          $39,861.36
+
+                              City    Lawton      Total:            $658,381.32 *
+
+                              State ID 50         Total:            $658,381.32 **
+
+                              Federal ID 300      Total           $7,636,327.42 ***
+
+
+                              Final Total of All Bonds:          $42,871,297.56 ****
+
+
+
+
+Click ENTER Close Output Window
